@@ -5,8 +5,8 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-    "start": "node server",
-    "dev": "nodemon server"
+    "start-noe": "node server",
+    "start-server": "nodemon server"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
