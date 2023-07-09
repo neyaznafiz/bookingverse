@@ -1,5 +1,5 @@
 ## Bookingverse
-### Live Link : https://booking-verse.web.app/
+### Live Link : <a href="https://booking-verse.web.app/" target="_blank">booking-verse.web.app</a>
 
 ## How to run in local
 If you want to test the application on in locally, just follow those steps.
