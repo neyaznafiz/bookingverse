@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+  width: 9px;
+}
+::-webkit-scrollbar-thumb{
+  background-color: #2d464c;
+  border-radius: 10px;
+}
+
+::selection{
+  background-color: #2d464c;
+  color: white;
+}
+
+img, button {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+}
+
+body {
+  font-size: 18px;
+  line-height: 28px;
+  font-family: "Quicksand", sans-serif;
+}
+
+.width{
+  width: 100%;
+  max-width: 1080px;
+}
+
+.bdr {
+  border: 2px solid black;
+}
