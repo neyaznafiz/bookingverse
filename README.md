@@ -33,5 +33,5 @@ If you want to test the application on in locally, just follow those steps.
     npm install
     ```
   - ```
-    npm start-frontend
+    npm start-client
     ```

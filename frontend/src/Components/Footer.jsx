@@ -48,8 +48,11 @@ export const Footer = () => {
           <li>Terms & conditions</li>
         </ul>
       </div>
-      <div className="my-6 ">
-        Copyright © {new Date().getFullYear()} BOOKINGVERSE.
+      <div className="my-6 flex justify-between">
+        <p>Developed By
+            <a href="https://neyaznafiz.info" target="_blank" className="cursor-pointer font-bold ml-1">NEYAZ NAFIZ</a>
+          </p>
+        <p>Copyright © {new Date().getFullYear()} BOOKINGVERSE.</p>
       </div>
     </div>
   );
