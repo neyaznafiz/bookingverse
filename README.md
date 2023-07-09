@@ -35,3 +35,5 @@ If you want to test the application on in locally, just follow those steps.
   - ```
     npm start-client
     ```
+
+**NOTE:** YOU MUST HAVE TO `NODE` ENVIRONMENT IN YOUR LOCAL MACHINE TO RUN THIS APPLICATION LOCALLY, IF YOU ALREADY HAVE THIS THEN ENJOY.
